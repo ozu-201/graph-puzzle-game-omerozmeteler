@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2023.1.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\TEMP\CLionProjects\graph-puzzle-game-omerozmeteler -B C:\Users\TEMP\CLionProjects\graph-puzzle-game-omerozmeteler\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug

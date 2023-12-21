@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="graph-puzzle-game-omerozmeteler"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="graph-puzzle-game-omerozmeteler">
+				<Option output="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/graph-puzzle-game-omerozmeteler.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/Makefile&quot;  VERBOSE=1 graph-puzzle-game-omerozmeteler"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="graph-puzzle-game-omerozmeteler/fast">
+				<Option output="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/graph-puzzle-game-omerozmeteler.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/Makefile&quot;  VERBOSE=1 graph-puzzle-game-omerozmeteler/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/main.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/DisjointSet.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/DisjointSet.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Element.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Element.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Graph/Graph.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Graph/Graph.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Hash.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Hash.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Heap/DHeap.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Heap/DHeap.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Heap/Heap.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Heap/Heap.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Heap/HeapNode.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Heap/HeapNode.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Heap/MaxDHeap.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Heap/MaxDHeap.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Heap/MaxHeap.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Heap/MaxHeap.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Heap/MinDHeap.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Heap/MinDHeap.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Heap/MinHeap.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Heap/MinHeap.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Queue.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Queue.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Set.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Set.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Sort/BubbleSort.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Sort/BubbleSort.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Sort/BucketSort.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Sort/BucketSort.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Sort/HeapSort.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Sort/HeapSort.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Sort/InsertionSort.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Sort/InsertionSort.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Sort/MergeSort.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Sort/MergeSort.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Sort/QuickSort.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Sort/QuickSort.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Sort/SelectionSort.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Sort/SelectionSort.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Sort/ShellSort.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Sort/ShellSort.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Stack.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Array/Stack.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/General/AbstractGraph.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/General/AbstractGraph.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/General/Path.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/General/Path.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/DoublyLinkedList.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/DoublyLinkedList.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/DoublyNode.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/DoublyNode.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/Graph/Edge.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/Graph/Edge.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/Graph/EdgeList.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/Graph/EdgeList.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/Graph/Graph.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/Graph/Graph.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/Hash.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/Hash.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/LinkedList.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/LinkedList.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/Node.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/Node.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/NodeString.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/NodeString.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/Queue.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/Queue.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/Stack.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/List/Stack.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Tree/AvlTree.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Tree/AvlTree.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Tree/AvlTreeNode.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Tree/AvlTreeNode.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Tree/BTree.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Tree/BTree.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Tree/BTreeNode.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Tree/BTreeNode.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Tree/Element.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Tree/Element.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Tree/Queue.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Tree/Queue.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Tree/Stack.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Tree/Stack.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Tree/Tree.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Tree/Tree.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Tree/TreeNode.cpp">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/src/Tree/TreeNode.h">
+			<Option target="graph-puzzle-game-omerozmeteler"/>
+		</Unit>
+		<Unit filename="C:/Users/TEMP/CLionProjects/graph-puzzle-game-omerozmeteler/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
