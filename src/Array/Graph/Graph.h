@@ -8,6 +8,9 @@
 
 #include "../../General/AbstractGraph.h"
 #include "../../List/Graph/Edge.h"
+#include <vector>
+#include <string>
+#include <iostream>
 
 namespace array{
     class Graph : public AbstractGraph{
@@ -23,6 +26,7 @@ namespace array{
         Path* dijkstra(int source);
         int** floydWarshall();
         void prim();
+        void search(std::vector<std::string>& words, std::string& start, std::string& target);
     protected:
         void depthFirstSearch(bool* visited, int fromNode) override;
         void breadthFirstSearch(bool* visited, int startNode) override;

@@ -63,6 +63,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/main.cpp.dir/src/List/LinkedList.cpp.obj.d"
   "CMakeFiles/main.cpp.dir/src/List/Node.cpp.obj"
   "CMakeFiles/main.cpp.dir/src/List/Node.cpp.obj.d"
+  "CMakeFiles/main.cpp.dir/src/List/NodeString.cpp.obj"
+  "CMakeFiles/main.cpp.dir/src/List/NodeString.cpp.obj.d"
   "CMakeFiles/main.cpp.dir/src/List/Queue.cpp.obj"
   "CMakeFiles/main.cpp.dir/src/List/Queue.cpp.obj.d"
   "CMakeFiles/main.cpp.dir/src/List/Stack.cpp.obj"
